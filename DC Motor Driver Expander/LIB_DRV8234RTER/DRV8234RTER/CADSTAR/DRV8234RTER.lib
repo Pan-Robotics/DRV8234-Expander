@@ -1,0 +1,18 @@
+.DRV8234RTER :1 ;Motor / Motion / Ignition Controllers & Drivers SINGLE H-BRIDGE MOTOR DRIVER
+QFN50P300X300X80-17N-D
+*STM IC
+*NGS
+*PLB 1="IPROPI" 2="RSVD" 3="RC_OUT" 4="NFAULT" 5="VM" 6="OUT1" 7="GND" 8="OUT2" 9="A1" 10="A0" 11="NSLEEP" 12="PH/IN2" 13="EN/IN1" 14="SDA" 15="SCL" 16="VREF" 17="EP"
+*MXP 17
+*DFN DRV8234RTER
+~!Manufacturer_Name (Texas Instruments)
+~!Manufacturer_Part_Number (DRV8234RTER)
+~!Mouser Part Number (-)
+~!Mouser Price/Stock (-)
+~!Arrow Part Number (-)
+~!Arrow Price/Stock (-)
+~!Link Datasheet (https://www.ti.com/lit/ds/symlink/drv8234.pdf?ts=1704472523164&ref_url=https%253A%252F%252Fwww.ti.com%252Fsitesearch%252Fen-us%252Fdocs%252Funiversalsearch.tsp%253FlangPref%253Den-US%2526searchTerm%253DDRV8234RTER%2526nr%253D2)
+~!Height (0.8mm)
+~!3D_Model (DRV8234RTER)
+DRV8234RTER
+1.1!U 2.1!U 3.1!U 4.1!U 5.1!U 6.1!U 7.1!U 8.1!U 12.1!U 11.1!U 10.1!U 9.1!U 17.1!U 16.1!U 15.1!U 14.1!U 13.1!U 

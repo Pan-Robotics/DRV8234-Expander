@@ -1,0 +1,9 @@
+Manufacturer=Texas Instruments
+PartNumber=DRV8234RTER
+PartCategory=Integrated Circuit
+PackageCategory=Quad Flat No-Lead
+PinCount=17
+Version=1.1
+Released=2024-01-11 05:16:21
+Downloaded=2024-01-12 00:17:59
+3D=Y
