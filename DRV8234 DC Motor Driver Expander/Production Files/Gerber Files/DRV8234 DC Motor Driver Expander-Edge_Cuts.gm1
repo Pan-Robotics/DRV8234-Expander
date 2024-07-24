@@ -1,0 +1,26 @@
+%TF.GenerationSoftware,KiCad,Pcbnew,8.0.2*%
+%TF.CreationDate,2024-07-24T20:27:57+03:00*%
+%TF.ProjectId,DRV8234 DC Motor Driver Expander,44525638-3233-4342-9044-43204d6f746f,rev?*%
+%TF.SameCoordinates,PX5f5e100PY5f5e100*%
+%TF.FileFunction,Profile,NP*%
+%FSLAX46Y46*%
+G04 Gerber Fmt 4.6, Leading zero omitted, Abs format (unit mm)*
+G04 Created by KiCad (PCBNEW 8.0.2) date 2024-07-24 20:27:57*
+%MOMM*%
+%LPD*%
+G01*
+G04 APERTURE LIST*
+%TA.AperFunction,Profile*%
+%ADD10C,0.050000*%
+%TD*%
+G04 APERTURE END LIST*
+D10*
+X0Y35000000D02*
+X0Y0D01*
+X68900000Y35000000D02*
+X0Y35000000D01*
+X68900000Y0D02*
+X68900000Y35000000D01*
+X0Y0D02*
+X68900000Y0D01*
+M02*

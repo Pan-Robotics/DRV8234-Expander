@@ -1,0 +1,10 @@
+Reference,Value,Footprint,Qty,Manufacturer_Name,Manufacturer_Part_Number
+"C1,C3",100nF,Capacitor_SMD:C_0805_2012Metric,2,Aillen,0805B104K101CC
+C2,100uF,Capacitor_SMD:C_Elec_8x10.2,1,Nichicon,UWT1H101MNL1GS
+IC1,DRV8234RTER,PCB Footprints:DRV8234RTER,1,Texas Instruments,DRV8234RTER
+"J1,J5",1862042,PCB Footprints:1862042,2,Phoenix Contact,1862042
+"J2,J3,J6",1862055,PCB Footprints:1862055,3,Phoenix Contact,1862055
+J4,1862068,PCB Footprints:1862068,1,Phoenix Contact,1862068
+"R1,R3",10k,Resistor_SMD:R_0805_2012Metric,2,YAGEO,RC0805FR-0710KL
+R2,1.2k,Resistor_SMD:R_0805_2012Metric,1,TE Connectivity Passive Product,CRG0805F1K2
+"R4,R5,R6,R7",2.2k,Resistor_SMD:R_0805_2012Metric,4,YAGEO,RC0805FR-072K2L
